@@ -1,5 +1,5 @@
 # Preppin-Data-Challenge----House-of-Games-Winners
-using Python to complete the Preppin' Data Challenge -- House of Games Winners, where 'missingno' library and rank method are used.
+using Python to complete the Preppin' Data Challenge -- House of Games Winners, where 'missingno' library and rank and to_numeric methods are used.
 
 using Python to complete the Preppin' Data Challenge -- House of Games Winners
 
